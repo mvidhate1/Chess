@@ -21,7 +21,7 @@ Only the basic rules of play have been adopted and not the competition rules.
 
 The chess pieces can be selected using the mouse pointer and then the grid to which you want to move the piece to should be selected.
 
-If the move is legal according to the Basic Rules of Play mentioned in the above rulebook provided, the chess piece will be shifted, else the move will not take place.
+If the move is deemed legal according to the Basic Rules of Play mentioned in the rulebook provided above, the chess piece will be shifted, else the move will not take place.
 
 ## Run
 
