@@ -3,7 +3,7 @@ A simple AI agent for Chess.
 
 ## Prerequisites
 
-For smooth and a hassle free experience, make sure you have
+For a smooth and hassle free experience, make sure you are working with
 ```
 python=3.7.6
 ``` 
