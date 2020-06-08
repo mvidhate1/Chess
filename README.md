@@ -1,15 +1,17 @@
 # PyChess
-AI agent for Chess 
+A simple AI agent for Chess. 
 
-REQUIREMENTS:
+## PREREQUISITIES:
 
-Install Miniconda script file from
-https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh
+For smooth and a hassle free experience, make sure you have
+```
+python=3.7.6
+``` 
 
-Make the requirements.sh file an executable using
-chmod u+x requirements.sh
+## RUN 
 
-and execute it using 
-./requirements.sh
-to download all the required packages.
-
+```
+cd PyChess
+chmod u+x run.sh
+./run.sh
+```
