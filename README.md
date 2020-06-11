@@ -16,12 +16,9 @@ conda install python=3.7.6
 
 ## Rules
 
-The rules of play can be found on the following site
-```
-https://www.fide.com/FIDE/handbook/LawsOfChess.pdf
-```
+The rules of play can be found on https://www.fide.com/FIDE/handbook/LawsOfChess.pdf
 
-Only the basic rules of play have been adopted and not the competition rules. 
+Only the basic rules of play have been adopted and not the competition rules.
 
 ## Controls
 
