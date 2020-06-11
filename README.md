@@ -3,10 +3,16 @@ A simple AI agent for Chess.
 
 ## Prerequisites
 
-For a smooth and hassle free experience, make sure you are working with
+For a smooth and hassle free experience, make sure you are working with conda
 ```
 python=3.7.6
 ``` 
+
+If not, you can follow the installation steps on https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html pertaining to your system.
+Once you have conda installed, you can get python3.7.6 by using the command
+```
+conda install python=3.7.6
+```
 
 ## Rules
 
