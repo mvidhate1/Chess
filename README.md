@@ -1,5 +1,5 @@
-# PyChess
-A simple AI agent for Chess. 
+# Chess
+A simple AI agent for Chess in python. 
 
 ## Prerequisites
 
